@@ -3,12 +3,12 @@
 # Binders (Incognito Recommended)
 
 ## Homepage and file access
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/ReactionStoppingDistancePy/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/ReactionStoppingDistance/main)
 
 
 
 ## Main Notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/ReactionStoppingDistancePy/main?urlpath=voila%2Frender%2FReactionStoppingDistance.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/ReactionStoppingDistance/main?urlpath=voila%2Frender%2FReactionStoppingDistance.ipynb)
 
 
 Calculation of total stopping distance for emergency braking situations.
